@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="C:\Users\Neusoft\AndroidStudioProjects\Notes-master\app"
+    name=":app"
+    type="APP"
+    maven="Notes-master:app:"
+    agpVersion="8.1.0"
+    buildFolder="build"
+    bootClassPath="D:\AndroidStudio\Android\Sdk\platforms\android-30\android.jar;D:\AndroidStudio\Android\Sdk\platforms\android-30\optional\org.apache.http.legacy.jar;D:\AndroidStudio\Android\Sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-30"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

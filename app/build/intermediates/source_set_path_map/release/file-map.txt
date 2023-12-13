@@ -1,0 +1,7 @@
+net.micode.notes.app-pngs-0 C:\Users\Neusoft\AndroidStudioProjects\Notes-master\app\build\generated\res\pngs\release
+net.micode.notes.app-resValues-1 C:\Users\Neusoft\AndroidStudioProjects\Notes-master\app\build\generated\res\resValues\release
+net.micode.notes.app-packageReleaseResources-2 C:\Users\Neusoft\AndroidStudioProjects\Notes-master\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+net.micode.notes.app-packageReleaseResources-3 C:\Users\Neusoft\AndroidStudioProjects\Notes-master\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+net.micode.notes.app-merged_res-4 C:\Users\Neusoft\AndroidStudioProjects\Notes-master\app\build\intermediates\merged_res\release
+net.micode.notes.app-main-5 C:\Users\Neusoft\AndroidStudioProjects\Notes-master\app\src\main\res
+net.micode.notes.app-release-6 C:\Users\Neusoft\AndroidStudioProjects\Notes-master\app\src\release\res

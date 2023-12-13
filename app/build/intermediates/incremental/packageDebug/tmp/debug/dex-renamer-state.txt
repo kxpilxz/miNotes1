@@ -1,0 +1,4 @@
+#Tue Oct 17 09:55:08 CST 2023
+base.0=D\:\\Notes-master (1)\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
